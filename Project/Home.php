@@ -18,6 +18,8 @@
     <h1>Site de recettes</h1>
 
     <!-- inclusion des variables et fonctions -->
+    <?php include_once('login.php'); ?>
+
     <?php
     include_once('variables.php');
     include_once('functions.php');
